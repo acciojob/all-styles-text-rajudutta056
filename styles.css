@@ -6,7 +6,7 @@ width: 200px;
 padding: 10px;
 
 }
-#heading .heading{
+#heading.heading{
     
     color: white;
     text-decoration: underline;
